@@ -1,0 +1,8 @@
+C:/1/3lab/untitled/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/CMakeFiles/untitled.dir
+C:/1/3lab/untitled/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/1/3lab/untitled/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/1/3lab/untitled/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/CMakeFiles/list_install_components.dir
+C:/1/3lab/untitled/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/CMakeFiles/install.dir
+C:/1/3lab/untitled/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/CMakeFiles/install/local.dir
+C:/1/3lab/untitled/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/CMakeFiles/untitled_autogen_timestamp_deps.dir
+C:/1/3lab/untitled/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Debug/CMakeFiles/untitled_autogen.dir
